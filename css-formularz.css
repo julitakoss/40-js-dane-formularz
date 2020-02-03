@@ -1,0 +1,17 @@
+.background{
+    background-color: turquoise;
+}
+#name{
+    color: yellowgreen;
+    
+}
+#surname{
+    color: brown;
+}
+#phone{
+    color: chocolate;
+}
+.bold{
+    color: darkgreen;
+    font-weight: bold;
+}
